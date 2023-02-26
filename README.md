@@ -1,9 +1,7 @@
-# taiko-web
-A web-based Taiko no Tatsujin simulator.
+## 這啥
 
-Running instance: [https://taiko.bui.pm](https://taiko.bui.pm)
-
-Still in development. Works best with Chrome.
+鼓眾們的大哥就這樣被萬代給 shut down 了，反正我是無能為力，只能在這邊做一份備份。
 
 ## Setup
-Please see the [Setup](https://github.com/bui/taiko-web/wiki/Setup) page for setup instructions.
+
+看 setup.md
