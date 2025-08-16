@@ -8,7 +8,7 @@
 
 如今依舊可以按照 setup.md 的步驟，自己在 linux 系統上運行 taiko-web，有能力可以自己搞搞看。
 
-我這邊寫了一份 dockerfile 腳本，可以在任何安裝了 docker 的 AMD64 架構的系統中快速啟動服務（經測試，win11、ubuntu24 皆可成功運作）：
+我這邊寫了一份 dockerfile 腳本，其撰寫邏輯有[撰文介紹](https://shuaixin.cc/Docker-Taiko-Web/)，可以在任何安裝了 docker 的 AMD64 架構的系統中快速啟動服務（經測試，win11、ubuntu24 皆可成功運作）：
 
 ```
 FROM debian:bookworm
